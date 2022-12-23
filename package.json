@@ -22,7 +22,7 @@
     "express-rate-limit": "^2.11.0",
     "express-validator": "^5.0.3",
     "group-array": "^0.3.3",
-    "jsonwebtoken": "^8.2.0",
+    "jsonwebtoken": "^9.0.0",
     "jwt-decode": "^2.2.0",
     "knex": "^0.14.4",
     "mysql": "^2.15.0",
